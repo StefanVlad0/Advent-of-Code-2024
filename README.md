@@ -5,6 +5,7 @@
 - [Day 1](Day%201)
 - [Day 2](Day%202)
 - [Day 3](Day%203)
+- [Day 4](Day%204)
 
 ## Progress:
-![Progress Image](Images/progress_day3.png)
+![Progress Image](Images/progress_day4.png)
